@@ -1,0 +1,8 @@
+console.log("Hello World From TypeScript")
+console.log("Hello World From TypeScript")
+console.log("Hello World From TypeScript")
+console.log("Hello World From TypeScript")
+console.log("Hello World From TypeScript")
+console.log("Hello World From TypeScript")
+console.log("Hello World From TypeScript")
+console.log("Hellod")
